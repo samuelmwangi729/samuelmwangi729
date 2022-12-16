@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/42680795/184314628-9353b9f7-4f8c-4722-ba6a-ac4d7c58223c.gif" width="800" height="300"/>
 </div>
-<div clign="center">
+<div align="center">
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelmwangi729&theme=hacker&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmwangi729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
