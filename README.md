@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif" width="800" height="300"/>
 </div>
-
-![68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966](https://user-images.githubusercontent.com/42680795/184314628-9353b9f7-4f8c-4722-ba6a-ac4d7c58223c.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/42680795/184314628-9353b9f7-4f8c-4722-ba6a-ac4d7c58223c.gif" width="800" height="300"/>
+</div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuelmwngi729)](https://git.io/streak-stats)
