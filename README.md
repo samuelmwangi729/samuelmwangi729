@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=samuelmwangi729)](https://github.com/samuelmwangi729/github-profile-trophy)
 
 - 🔭 I am currently workirng as a high school teacher teaching computer science and mathematics. I also do software development as a freelancer. I have been doing cyber security projects for over 5 years now.
 - 🌱 I am cnurrently learning reactjs together with Django rest framework
