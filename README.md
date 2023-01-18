@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=samuelmwangi729)](https://github.com/samuelmwangi729/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmwangi729&show_icons=true&&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmwangi729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I am currently workirng as a high school teacher teaching computer science and mathematics. I also do software development as a freelancer. I have been doing cyber security projects for over 5 years now.
 - 🌱 I am cnurrently learning reactjs together with Django rest framework
 - 👯 I’m looking to collaborate on open source projects or anything that can generate me passive income
@@ -20,4 +21,4 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelmwangi729&theme=hacker&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmwangi729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
