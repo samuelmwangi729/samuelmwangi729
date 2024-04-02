@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmwangi729&show_icons=true&&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmwangi729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I am currently workirng as a high school teacher teaching computer science and mathematics. I also do software development as a freelancer. I have been doing cyber security projects for over 5 years now.
-- 🌱 I am cnurrently learning reactjs together with Django rest framework
+- 🌱 I am currently learning MERN Stack
 - 👯 I’m looking to collaborate on open source projects or anything that can generate me passive income
 - 💬 Ask me about any concepts in PHP, HTML, JAVASCRIPT,PYTHON, LARAVEL etc.
 - 📫 How to reach me: just send an email to bh4534927@gmail.com
