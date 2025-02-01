@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=samuelmwangi729)](https://github.com/samuelmwangi729/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmwangi729&show_icons=true&&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmwangi729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I am currently working as a high school teacher teaching computer science and mathematics. I also do software development as a freelancer. I have been doing cyber security projects for over 5 years now.
 - 🌱 I am a  MERN Stack developer
 - 👯 I’m looking to collaborate on open source projects or anything that can generate me passive income
@@ -14,9 +13,6 @@
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif" width="800" height="300"/>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/42680795/184314628-9353b9f7-4f8c-4722-ba6a-ac4d7c58223c.gif" width="800" height="300"/>
 </div>
 
 ### :fire: My Stats :
