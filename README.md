@@ -2,9 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samuelmwangi729&theme=gruvbox)](https://github.com/samuelmwangi729/github-profile-trophy)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelmwangi729&show_icons=true&theme=gruvbox)
 
-<h1>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1>Hello there</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif" width="800" height="300"/>
