@@ -5,10 +5,6 @@
 
 <h1>Hello there</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif" width="800" height="300"/>
-</div>
-
 ## 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelmwangi729&theme=hacker&background=000000)](https://git.io/streak-stats)
 
