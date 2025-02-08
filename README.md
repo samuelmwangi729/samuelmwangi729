@@ -1,10 +1,6 @@
 # Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samuelmwangi729&theme=gruvbox)](https://github.com/samuelmwangi729/github-profile-trophy)
-
-
-<h1>Hello there</h1>
-
 ## 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelmwangi729&theme=hacker&background=000000)](https://git.io/streak-stats)
 
