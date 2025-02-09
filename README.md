@@ -11,4 +11,3 @@
 - 👯 I’m looking to collaborate on **open-source projects** or anything that can generate **passive income**.
 - 💬 Ask me about **PHP, HTML, JavaScript, Python, Laravel, React.js, Node.js, MongoDB, Express.js, and cybersecurity**.
 - 📫 How to reach me: **bh4534927@gmail.com**
-- <figure><embed src="https://wakatime.com/share/@e65cb2a3-dab5-4186-84dc-18671cfe9bb7/3c3bee9a-ff5a-4bd6-bfb7-db8162ca8f42.svg"></embed></figure>
