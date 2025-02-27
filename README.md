@@ -2,7 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samuelmwangi729&theme=gruvbox)](https://github.com/samuelmwangi729/github-profile-trophy)
 ## 🔥 My Stats:
-[[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelmwangi729)](https://git.io/streak-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmwangi729)
+
+[[![GitHub Streak]([http://github-readme-streak-stats.herokuapp.com?user=samuelmwangi729](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmwangi729))](https://git.io/streak-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmwangi729)
 
 ## 🚀 About Me:
 - 🔭 I am currently working as a **high school teacher**, teaching **Computer Science** and **Mathematics**. I also work as a **freelance software developer**.
