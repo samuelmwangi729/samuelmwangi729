@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.imgur.com/zyvY3Vr.png](https://avatars.githubusercontent.com/u/42680795?v=4)" alt="Samuel Mwangi - Software Developer" />
+  <img src="(https://avatars.githubusercontent.com/u/42680795?v=4)" alt="Samuel Mwangi - Software Developer" />
 </p>
 
 # Hi there, I'm Samuel 👋
