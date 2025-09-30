@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/zyvY3Vr.png" alt="Samuel Mwangi - Software Developer" />
+</p>
+
 # Hi there, I'm Samuel 👋
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=samuelmwangi729&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true)](https://github.com/samuelmwangi729)
@@ -19,6 +24,22 @@
 
 📬 **Let’s Connect:**  
 Reach out via email — **bh4534927@gmail.com**
+
+---
+
+## 🏅 Badges & Certifications
+
+<p align="center">
+  <!-- GitHub Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=samuelmwangi729&style=flat-square&color=blue" alt="Profile Views" />
+  
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/samuelmwangi729?label=Follow&style=social" alt="GitHub Followers" />
+
+  <!-- AWS Certifications -->
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certificate-orange?logo=amazonaws&style=for-the-badge" alt="AWS Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-orange?logo=amazonaws&style=for-the-badge" alt="AWS Solutions Architect Associate" />
+</p>
 
 ---
 
@@ -52,6 +73,7 @@ Reach out via email — **bh4534927@gmail.com**
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
@@ -81,3 +103,4 @@ Reach out via email — **bh4534927@gmail.com**
 > "The best way to predict the future is to invent it." – **Alan Kay**
 
 ---
+
