@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2015%2F04%2Fcodecode.jpg%3Fresize%3D1200%2C800&f=1&nofb=1&ipt=e8f062f36daa2ac2ab3b5f1ddd6362586f1f4c3402d8e0bd377a501ca85965dc" alt="Samuel Mwangi - Software Developer" />
-</p>
-
 # Hi there, I'm Samuel 👋
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=samuelmwangi729&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true)](https://github.com/samuelmwangi729)
