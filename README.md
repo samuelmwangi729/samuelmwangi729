@@ -1,7 +1,5 @@
 # Hi there, I'm Samuel 👋
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=samuelmwangi729&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true)](https://github.com/samuelmwangi729)
-
 ---
 
 ## 🚀 About Me
