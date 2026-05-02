@@ -16,7 +16,7 @@
 - 🧪 Innovative tech projects
 
 📬 **Let’s Connect:**  
-Reach out via email — **bh4534927@gmail.com**
+Reach out via email — **samuelmwangibiz@gmail.com**
 
 ---
 
